@@ -20,5 +20,5 @@ Additionally, 'Age' and 'CD Account' are important features too, as reflected fr
 I faced problems in creating a virtual environment in VS Code, and resorted to some help from chatgpt. But after that, i was able to write the code (.ipynb) and the page codes (.py files) on my own, and then had to look up some sources including the blog on how we setup the main.py page.
 But after i was done with it, i faced another problem while making a commit on github, as i changed the name of the folder and that broke some paths in the process. Then I had to setup a .venv again, install the requisite packages and then make the code run using the workspace interpreter.
 
-After the commit was complete, it was easy-peasy with creating an app to deploy on stremlit, entering the repo name and finally deploying it live.
-**Thus, i was able to deploy my first multi-page web-app live.**
+After the commit was complete, it was easy-peasy with creating an app to deploy on streamlit, entering the repo name and finally deploying it live.
+**And at the end of it all, I was successfully able to deploy my first multi-page web-app live.**
