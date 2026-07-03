@@ -2,7 +2,7 @@
 
 This is a multi-page web-application built using python with its libraries like pandas, matplotlib and scikit-learn, and then trained on Supervised learning techniques- Logistic Regression and RandomForest Classification in this case.
 
-I used Kaagle's loan predictor dataset, comprising various features like Income, Size of Family, Education level, Access to CD/securities account(s) etc. and we perform necessary cleaning and pre-processing on the input features.
+I used Kaggle's loan predictor dataset, comprising various features like Income, Size of Family, Education level, Access to CD/securities account(s) etc. and we perform necessary cleaning and pre-processing on the input features.
 We take a look into the dataset including some visualizations like a countplot for target variables, and one for Education levels too, plus we manually assign Education labels to the integral feature.
 Then on the basis of trained data (and normalized using StandardScaler), we make predictions on the test data using our models, and also draw comparison between the performance of the 2 models using evaluation metrics.
 
